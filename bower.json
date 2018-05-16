@@ -1,0 +1,23 @@
+{
+  "name": "MedCare Front",
+  "description": "Front-end for MedCare",
+  "main": "index.js",
+  "authors": [
+    "Andrew Kuktenko <andriy.kuktenko@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "bootstrap": "^3.3.7",
+    "components-font-awesome": "^4.7.0"
+  }
+}

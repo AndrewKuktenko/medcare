@@ -1,0 +1,11 @@
+#start {
+  width: 100%;
+  height: 100vh;
+  background: #1098F7 url("../img/section_1_background.jpg") 50% 0 no-repeat;
+
+  .hello-text {
+    color: $additional-color;
+    margin-top: 270px;
+    font: 900 52px/65px 'museo';
+  }
+}
