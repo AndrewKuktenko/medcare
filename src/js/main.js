@@ -8,4 +8,3 @@
  * Custom
  */
 //= partials/app.js
-//= partials/header.js

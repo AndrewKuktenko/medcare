@@ -1,6 +1,4 @@
-![](https://drive.google.com/uc?export=download&id=19xRXSL98_0BaB2hDFeH1UqzO_HFSTZED)
-
-## Lynx Development Website. Front-end
+## Medical Care Website. Front-end
 
 #### Project structure
 ```
@@ -37,7 +35,7 @@
 
 ```sh
 # clone github repo
-git clone https://github.com/Lynx-Development/Lynx-Development-Front.git
+git clone https://github.com/Lynx-Development/medcare.git
 
 # navigate to project dir
 cd Lynx-Development-Front
